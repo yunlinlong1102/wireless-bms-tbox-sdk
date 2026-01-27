@@ -20,3 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# 忽略编译生成的中间文件
+build/
+bin/
